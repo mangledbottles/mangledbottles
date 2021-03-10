@@ -1,4 +1,4 @@
-### Hi there <img src="/wave.gif" width="35px">
+# Hi there! <img src="/wave.gif" width="35px">
 
 **mangledbottles/mangledbottles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
