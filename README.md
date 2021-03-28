@@ -1,8 +1,7 @@
 # Hi there! <img src="/wave.gif" width="35px">
 
-**mangledbottles/mangledbottles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+📧 [contact@dermotobrien.me](mailto:contact@dermotobrien.me)
+🔒 PGP Fingerprint `E0F8 EF85 249D FC62 C11C 7EC6 C4AE 4A3B 52D3 100C`
 
 - 🔭 I’m currently working on ... TBD
 - 🌱 I’m currently learning ... TBD
