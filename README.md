@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on ExpressJS API's, Flutter iOS & Android Apps, Reverse Engineering
 - 🌱 I’m currently learning more about efficient **Algorithms**
-- 🤔 I’m looking for help with ... TBD
 - 💬 Ask me about databases & opsec 
 - 😄 Pronouns: he/him
 
