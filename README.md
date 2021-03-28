@@ -13,6 +13,7 @@
 <a href="https://github.com/mangledbottles?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mangledbottles&show_icons=true" alt="Dermot's github stats" />
 </a>
-<a href="https://github.com/mangledbottles?tab=repositories">
+
+<!-- <a href="https://github.com/mangledbottles?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mangledbottles&layout=compact" />
-</a>
+</a> -->
