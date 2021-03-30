@@ -3,11 +3,11 @@
 📧 [contact@dermotobrien.me](mailto:contact@dermotobrien.me)
 🔒 PGP Encryption Fingerprint `E0F8 EF85 249D FC62 C11C 7EC6 C4AE 4A3B 52D3 100C`
 
-- 📲 Co-founder at Fonz Music LLC making music collaborative 🍻👥
+- 📲 Co-founder at [Fonz Music LLC](https://fonzmusic.com) making music collaborative 🍻👥
 
-- 🔭 I’m currently working on ExpressJS API's, Flutter iOS & Android Apps, Reverse Engineering
-- 🌱 I’m currently learning more about efficient **Algorithms**
-- 💬 Ask me about databases & opsec 
+- 🔭 I’m currently working on [ExpressJS API's](https://github.com/mangledbottles/fonz-api), Flutter iOS & Android Apps, [Reverse Engineering](https://github.com/mangledbottles/Musically-API)
+- 🌱 I’m currently learning more about efficient [Algorithms](https://github.com/mangledbottles/Algorithms)
+- 💬 Ask me about databases & [opsec](https://github.com/mangledbottles/Screencapture-Mega) 
 - 😄 Pronouns: he/him
 
 <a href="https://github.com/mangledbottles?tab=repositories">
