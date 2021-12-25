@@ -4,7 +4,7 @@
 🔒 [Download PGP Encryption Public Key](https://dermotobrien.me/emailpublickey.asc)
 🖥️ [https://dermotobrien.me](https://dermotobrien.me)
 
-- 🔭 I’m currently working on a [Decentralysed End-to-End encrypted sharing platform (Web3)](https://github.com/mangledbottles/SecureShare)
+- 🔭 I’m currently working on a [Decentralysed End-to-End Encrypted Sharing Platform](https://github.com/mangledbottles/SecureShare) (Web3) 🔒🛰
 - 📲 Co-founder at [Fonz Music](https://fonzmusic.com) making music collaborative 🍻👥
 - 🌱 I’m currently learning more about efficient [Algorithms](https://github.com/mangledbottles/Algorithms)
 - 😄 Pronouns: he/him 🏳‍🌈
