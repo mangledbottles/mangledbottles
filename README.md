@@ -11,6 +11,7 @@
 
 <a href="https://github.com/mangledbottles?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mangledbottles&show_icons=true&count_private=true" alt="Dermot's github stats" />
+  <img align="center" src="https://github.com/mangledbottles/github-stats/blob/master/generated/overview.svg" />
 </a>
 
 <!-- <a href="https://github.com/mangledbottles?tab=repositories">
