@@ -5,7 +5,8 @@
 🖥️ [https://dermotobrien.me](https://dermotobrien.me)
 
 - 🔭 I’m currently working on a [Decentralysed End-to-End Encrypted Sharing Platform](https://github.com/mangledbottles/SecureShare) (Web3) 🔒🛰
-- 📲 Co-founder at [Fonz Music](https://fonzmusic.com) making music collaborative 🍻👥
+- 📲 Software Engineer @ [SQUID Loyalty](https://squidloyalty.ie/)
+- 💻 Incoming Software Engineering Intern @ Amazon
 - 😄 Pronouns: he/him 🏳‍🌈
 
 <a href="https://github.com/mangledbottles?tab=repositories">
