@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on a [Decentralysed End-to-End Encrypted Sharing Platform](https://github.com/mangledbottles/SecureShare) (Web3) 🔒🛰
 - 📲 Software Engineer @ [SQUID Loyalty](https://squidloyalty.ie/)
-- 💻 Incoming Software Engineering Intern @ Amazon
 - 😄 Pronouns: he/him 🏳‍🌈
 
 <a href="https://github.com/mangledbottles?tab=repositories">
