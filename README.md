@@ -4,8 +4,10 @@
 🔒 [Download PGP Encryption Public Key](https://dermotobrien.me/emailpublickey.asc)
 🖥️ [https://dermotobrien.me](https://dermotobrien.me)
 
+<!-- 
 - 🔭 I’m currently working on a [Decentralysed End-to-End Encrypted Sharing Platform](https://github.com/mangledbottles/SecureShare) (Web3) 🔒🛰
 - 📲 Software Engineer @ [SQUID Loyalty](https://squidloyalty.ie/)
+-->
 - 😄 Pronouns: he/him 🏳‍🌈
 
 <a href="https://github.com/mangledbottles?tab=repositories">
